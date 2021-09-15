@@ -1,0 +1,20 @@
+{
+  "name": "LearnToCode",
+  "version": "1.0.0",
+  "description": "Tips and tricks to program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshall31639/SimplyProgramming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshall31639/SimplyProgramming/issues"
+  },
+  "homepage": "https://github.com/marshall31639/SimplyProgramming#readme"
+}
